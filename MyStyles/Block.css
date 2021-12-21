@@ -1,0 +1,25 @@
+#elem1{
+    display: inline-block;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: blue;
+    background-color: orange;
+    width: 300px;
+    height: 150px;
+    position:absolute; 
+    top: 250px;
+    left: 500px;
+}
+
+#elem2{
+    text-align: center;
+    width: 150px;
+    height: 75px;
+    background-color: blue;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: red;
+}
+ul{
+    list-style-type: square;
+}
